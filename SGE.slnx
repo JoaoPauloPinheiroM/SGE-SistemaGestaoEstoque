@@ -1,12 +1,17 @@
 <Solution>
   <Folder Name="/src/" />
   <Folder Name="/src/backend/">
+    <File Path="redame.md" />
     <Project Path="src/backend/SGE.Api/SGE.Api.csproj" />
     <Project Path="src/backend/SGE.Application/SGE.Application.csproj" />
     <Project Path="src/backend/SGE.Domain/SGE.Domain.csproj" />
     <Project Path="src/backend/SGE.Infrastructure/SGE.Infrastructure.csproj" />
   </Folder>
-  <Folder Name="/src/desktop/" />
-  <Folder Name="/src/frontend/" />
+  <Folder Name="/src/desktop/">
+    <File Path="redame.md" />
+  </Folder>
+  <Folder Name="/src/frontend/">
+    <File Path="redame.md" />
+  </Folder>
   <Folder Name="/tests/" />
 </Solution>
